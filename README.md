@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=red)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://linkedin.com/in/USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Adrir_v0id/)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/ID)
 
 </div>
@@ -67,9 +67,9 @@ Interests:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adrir_v0id&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrir_v0id&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -79,7 +79,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrir_v0id&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,7 +89,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adrir_v0id&theme=onestar&no-frame=true&column=4"/>
 
 </p>
 
@@ -99,7 +99,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrir_v0id&theme=github-compact&hide_border=true"/>
 
 </p>
 
@@ -109,7 +109,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Adrir_v0id?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
 </p>
 
