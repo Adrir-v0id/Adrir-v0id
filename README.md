@@ -1,156 +1,201 @@
-<div align="center">
+# Hi, I'm YOUR_NAME 👋
 
-# Hi 👋 I'm YOUR_NAME
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adrir-v0id&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
-### YOUR_SHORT_BIO
+<p align="center">
+  <b>YOUR_SHORT_BIO</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Competitive+Programmer;Open+Source+Contributor;AI+%7C+Linux+%7C+Cybersecurity" />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=red)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://linkedin.com/in/USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Adrir_v0id/)
-[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/ID)
-
-</div>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_WEBSITE_URL">
+    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
 ```yaml
-Name: YOUR_NAME
-Location: YOUR_COUNTRY
-Current Focus: PLACEHOLDER
-Learning: PLACEHOLDER
-Languages: PLACEHOLDER
-Interests:
-  - AI
-  - Linux
-  - Cybersecurity
-  - Competitive Programming
+name: YOUR_NAME
+location: YOUR_COUNTRY
+role: YOUR_ROLE
+
+currently:
+  - YOUR_CURRENT_PROJECT
+  - YOUR_CURRENT_FOCUS
+
+learning:
+  - YOUR_CURRENT_LEARNING_TOPIC
+
+interests:
+  - Artificial Intelligence
+  - Open Source Development
+  - Systems Programming
+  - Software Engineering
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Technologies & Tools
 
-### Languages
+## Programming Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Rust](https://skillicons.dev/icons?i=rust)
-![JS](https://skillicons.dev/icons?i=js)
-![TS](https://skillicons.dev/icons?i=ts)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,java,js,ts,bash" />
+</p>
 
-### Frameworks
+## Artificial Intelligence
 
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-### Tools
+- Machine Learning
+- Deep Learning
+- Local LLM deployment
+- Model optimization
+- CUDA acceleration
+- AI automation
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Neovim](https://skillicons.dev/icons?i=neovim)
+## Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,git,github,linux" />
+</p>
+
+- REST APIs
+- Containerization
+- Linux environments
+- Development tooling
+
+## Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,blender" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## PROJECT_NAME
+
+> PROJECT_DESCRIPTION
+
+### Built With
+
+```
+TECH_STACK
+```
+
+Repository:
+YOUR_PROJECT_LINK
+
+
+---
+
+## PROJECT_NAME
+
+> PROJECT_DESCRIPTION
+
+### Built With
+
+```
+TECH_STACK
+```
+
+Repository:
+YOUR_PROJECT_LINK
+
+
+---
+
+## PROJECT_NAME
+
+> PROJECT_DESCRIPTION
+
+### Built With
+
+```
+TECH_STACK
+```
+
+Repository:
+YOUR_PROJECT_LINK
+
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adrir_v0id&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrir_v0id&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrir-v0id&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📈 Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrir_v0id&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Adrir-v0id&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adrir_v0id&theme=onestar&no-frame=true&column=4"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrir-v0id&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🧩 LeetCode
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrir_v0id&theme=github-compact&hide_border=true"/>
-
+  <img src="https://leetcard.jacoblin.cool/Adrir_v0id?theme=dark&ext=heatmap" />
 </p>
 
 ---
 
-# 💡 LeetCode
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Adrir_v0id?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrir-v0id&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Metrics
+# 🏆 Achievements
 
-<p align="center">
-
-<img src="./github-metrics.svg"/>
-
-</p>
+- YOUR_ACHIEVEMENT
+- YOUR_ACHIEVEMENT
+- YOUR_ACHIEVEMENT
 
 ---
 
-# 📌 Featured Projects
+# 📚 Currently Learning
 
-| Project | Description |
-|----------|-------------|
-| 🚀 Project 1 | Placeholder |
-| 🤖 Project 2 | Placeholder |
-| 🛠 Project 3 | Placeholder |
-| 🔥 Project 4 | Placeholder |
+```
+YOUR_TOPIC_1
+YOUR_TOPIC_2
+YOUR_TOPIC_3
+```
 
 ---
 
 # 📫 Contact
 
-```text
-Email    : your@email.com
-Website  : https://yourwebsite.com
-Discord  : username
-LinkedIn : linkedin.com/in/USERNAME
-```
+| Platform | Link |
+| --- | --- |
+| Email | YOUR_EMAIL |
+| LinkedIn | YOUR_LINKEDIN |
+| Website | YOUR_WEBSITE |
+| Discord | YOUR_DISCORD |
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=USERNAME&color=red&style=for-the-badge)
-
-*"YOUR_FAVORITE_QUOTE"*
-
-</div>
+<p align="center">
+  <i>"YOUR_FAVORITE_QUOTE"</i>
+</p>
