@@ -135,22 +135,6 @@ YOUR_PROJECT_LINK
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrir-v0id&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Adrir-v0id&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrir-v0id&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🧩 LeetCode
 
 <p align="center">
