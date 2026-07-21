@@ -46,5 +46,10 @@ jobs:
           plugin_notable: yes
 
           plugin_leetcode: yes
-          plugin_leetcode_user: LEETCODE_USERNAME
+          plugin_leetcode_user: Adrir_v0id
+
+
+
+          
           plugin_leetcode_sections: solved, skills, recent
+ 
