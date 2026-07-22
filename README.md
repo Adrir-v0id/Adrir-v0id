@@ -71,56 +71,6 @@ interests:
 
 ---
 
-# 🚀 Featured Projects
-
-## PROJECT_NAME
-
-> PROJECT_DESCRIPTION
-
-### Built With
-
-```
-TECH_STACK
-```
-
-Repository:
-YOUR_PROJECT_LINK
-
-
----
-
-## PROJECT_NAME
-
-> PROJECT_DESCRIPTION
-
-### Built With
-
-```
-TECH_STACK
-```
-
-Repository:
-YOUR_PROJECT_LINK
-
-
----
-
-## PROJECT_NAME
-
-> PROJECT_DESCRIPTION
-
-### Built With
-
-```
-TECH_STACK
-```
-
-Repository:
-YOUR_PROJECT_LINK
-
-
----
-
 # 🧩 LeetCode
 
 <p align="center">
