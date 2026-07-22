@@ -1,46 +1,45 @@
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm Adrien 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adrir-v0id&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <b>YOUR_SHORT_BIO</b>
+  <b>Engineering student looking to get better everyday !</b>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/adrien-labastire-211684402/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_WEBSITE_URL">
+  <a href="WEBSITE_URL">
     <img src="https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=googlechrome" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="adlabastire@outlook.fr">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
-name: YOUR_NAME
-location: YOUR_COUNTRY
-role: YOUR_ROLE
+name: Adrien
+location: France
+job : Student
 
-currently:
-  - YOUR_CURRENT_PROJECT
-  - YOUR_CURRENT_FOCUS
-
-learning:
-  - YOUR_CURRENT_LEARNING_TOPIC
+currently doing:
+  - Astrophotography
+  - Finishing my studies
+  - Learning AI
 
 interests:
-  - Artificial Intelligence
-  - Open Source Development
-  - Systems Programming
-  - Software Engineering
+  - Astronomy
+  - Engineering
+  - AI
+  - Reinforcement learning
+  - Hard surface modeling
 ```
 
 ---
@@ -50,7 +49,7 @@ interests:
 ## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,java,js,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
 ## Artificial Intelligence
@@ -59,24 +58,11 @@ interests:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-- Machine Learning
-- Deep Learning
 - Local LLM deployment
 - Model optimization
-- CUDA acceleration
 - AI automation
-
-## Backend & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,git,github,linux" />
-</p>
-
-- REST APIs
-- Containerization
-- Linux environments
-- Development tooling
-
+- Fine-tuning
+  
 ## Other Tools
 
 <p>
@@ -151,35 +137,7 @@ YOUR_PROJECT_LINK
 
 ---
 
-# 🏆 Achievements
-
-- YOUR_ACHIEVEMENT
-- YOUR_ACHIEVEMENT
-- YOUR_ACHIEVEMENT
-
----
-
-# 📚 Currently Learning
-
-```
-YOUR_TOPIC_1
-YOUR_TOPIC_2
-YOUR_TOPIC_3
-```
-
----
-
-# 📫 Contact
-
-| Platform | Link |
-| --- | --- |
-| Email | YOUR_EMAIL |
-| LinkedIn | YOUR_LINKEDIN |
-| Website | YOUR_WEBSITE |
-| Discord | YOUR_DISCORD |
-
----
 
 <p align="center">
-  <i>"YOUR_FAVORITE_QUOTE"</i>
+  <i>"You only get one try at life, don't waste it"</i>
 </p>
